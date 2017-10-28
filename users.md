@@ -502,3 +502,8 @@
   Place: Kochi, India  
   Bio: Web developer  
   GitHub: [slightlymadphoenix](https://github.com/slightlymadphoenix)
+
+- Name: Sophus Stein George  
+  Place: Kochi, India  
+  Bio: Web developer  
+  GitHub: [sstein98](https://github.com/sstein98)
